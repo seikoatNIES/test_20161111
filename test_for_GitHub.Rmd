@@ -1,0 +1,38 @@
+---
+title: "test_for_GitHub"
+author: "seiko uchida"
+date: "2016?N10??25??"
+output: html_document
+---
+
+<img src="C:\Users\uchid\Documents\samplesoilpic.JPG">    
+
+##TestTest    
+
+1. Introduction  
+2. Packages
+3. Install  
+4. Model 
+5. Simulation processes   
+6. The useage of this model
+7. Demo1 
+8. Demo2  
+9,10(processing...) 
+
+##TestTest 
+
+```{r,test}
+x<- 1:10
+y<- 1:10
+plot(x,y)
+plot(x,y, xlim=c(10,1))
+plot(x,y, xlim=c(1,10))
+
+x<- 1:30
+y<- 1:30
+plot(x,y)
+plot(x,y, ylim=c(1,20))
+
+```
+
+
